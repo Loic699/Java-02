@@ -1,4 +1,4 @@
-package Candies;
+package Candies.Java;
 
 public class Candies {
 
